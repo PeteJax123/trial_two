@@ -1,6 +1,6 @@
 {
   "data": {
-    "type": "registry-providers",
+    "type": "DanTest-registry-providers",
     "attributes": {
       "name": "aws",
       "namespace": "hashicorp",
